@@ -32,7 +32,7 @@ Users should be able to:
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
 
-- Live Site URL: [Hosted by Netlify](https://sage-bubblegum-21eea3.netlify.app/)
+- Live Site URL: [https://sage-bubblegum-21eea3.netlify.app/](https://sage-bubblegum-21eea3.netlify.app/)
 
 ## My process
 
@@ -62,7 +62,7 @@ I am still working on creating responsive websites. As I develop this skill, I w
 
 ### Useful resources
 
-- [Stack Overflow Resource](https://stackoverflow.com/questions/57878224/how-to-allow-only-one-element-with-a-specific-class) - This was very helpful in finding the best way to have only one item "selected" at a time withouit using radio buttons. Removing the class from every element before adding the new class.
+- [Stack Overflow - Class with single element allowed](https://stackoverflow.com/questions/57878224/how-to-allow-only-one-element-with-a-specific-class) - This was very helpful in finding the best way to have only one item "selected" at a time withouit using radio buttons. Removing the class from every element before adding the new class.
 
 ## Author
 
