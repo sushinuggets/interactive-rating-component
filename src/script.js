@@ -1,10 +1,3 @@
-// click number
-//add class .selected - change color
-
-//click submit
-//change card
-// replace html with card # 2
-
 let ratings = document.querySelectorAll(".btn");
 let userRating;
 function getRating(event) {
