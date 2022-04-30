@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Design Preview of Interactive Rating Component](screenshots/screenshot-1.jpg)
+![Design Preview of Interactive Rating Component](screenshots/screenshot-1.png)
 
 ### Links
 
